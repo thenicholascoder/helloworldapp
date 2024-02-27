@@ -3,5 +3,9 @@
   "private": true,
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "scripts": {
+    "build": "webpack --mode production"
+  }
+  
 }
